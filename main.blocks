@@ -16,4 +16,4 @@
         . . . . . 
         . . . . . 
         . . . . .
-        `</field><next><block type="device_pause" id="F;o?gde*-oYIjGf8g9IN"><value name="pause"><shadow type="timePicker" id="~@S~!{)1I08Db[$$M@C$"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block></statement></block></xml>
+        `</field><next><block type="device_pause" id="F;o?gde*-oYIjGf8g9IN"><value name="pause"><shadow type="timePicker" id="~@S~!{)1I08Db[$$M@C$"><field name="ms">130</field></shadow></value></block></next></block></next></block></next></block></statement></block></statement></block></xml>
